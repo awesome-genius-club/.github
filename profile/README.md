@@ -1,6 +1,6 @@
 # 어서 오세요, Awesome Genius Club에!
 
-![Awesome Genius Club](https://your-image-link-here.com)
+![Awesome Genius Club](https://github.com/awesome-genius-club)
 
 ## 우리의 목표
 Awesome Genius Club은 **존중, 지식 공유, 성장**의 원칙에 기초하여 설립되었습니다. 우리의 목표는 회원들이 다양한 레포지토리를 자유롭게 만들고, 테스트하고, 학습하면서 서로의 온기와 지원을 느낄 수 있는 따뜻하고 협력적인 환경을 조성하는 것입니다.
